@@ -13,7 +13,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           user: rudisimo
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_animations: yes
           config_timezone: America/New_York
