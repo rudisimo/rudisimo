@@ -15,7 +15,7 @@ jobs:
           user: rudisimo
           template: classic
           base: header, activity, community, repositories, metadata
-          config_animated: yes
+          config_animations: yes
           config_timezone: America/New_York
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
